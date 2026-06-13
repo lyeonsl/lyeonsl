@@ -45,7 +45,7 @@ Passionate about **Computer Vision**, **Human-Centered AI**
 
 **Collaboration & Communication**
 
-![Git](https://img.shields.io/badge/Git-B4B2A9?style=flat-square&logo=git&logoColor=5F5E5A)
+![Git](https://img.shields.io/badge/Git-E8E6DF?style=flat-square&logo=git&logoColor=5F5E5A)
 ![Notion](https://img.shields.io/badge/Notion-E8E6DF?style=flat-square&logo=notion&logoColor=5F5E5A)
 ![Slack](https://img.shields.io/badge/Slack-E8E6DF?style=flat-square&logo=slack&logoColor=5F5E5A)
 ![Discord](https://img.shields.io/badge/Discord-E8E6DF?style=flat-square&logo=discord&logoColor=5F5E5A)
