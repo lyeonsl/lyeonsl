@@ -1,8 +1,6 @@
 
 
-# Hi, I'm Sung Hyun Kim
-
-**AI Engineer | Creative Developer | Explorer of Possibilities**
+# Hi, I'm Kim Yeonseo
 
 [Email](mailto:kys93437481@gmail.com) • [LinkedIn](https://linkedin.com/in//yeonseo-kim-73b656341/) • [GitHub](https://github.com/lyeonsl)
 
