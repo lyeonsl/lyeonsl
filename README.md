@@ -12,9 +12,9 @@
 
 AI Engineering student at **Sookmyung Women's University**
 
-Exploring **Deep Learning**, **LLMs**, and **Agentic AI**
+Exploring **Deep Learning**, **LLMs**, **Computer Vision**, and **Agentic AI**
 
-Passionate about **Computer Vision**, **Human-Centered AI**
+Passionate about **Human-Centered AI**
 
 ---
 
