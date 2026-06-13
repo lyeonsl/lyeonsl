@@ -5,7 +5,7 @@ AI Engineering student · Sookmyung Women's University
 Exploring **Deep Learning**, **LLM**, and **Cloud AI**.
 Passionate about **Computer Vision** and **Human-Centered AI**.
 
----
+--
 
 #### 🛠 Tech Stack
 
@@ -20,7 +20,7 @@ Passionate about **Computer Vision** and **Human-Centered AI**.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-B4B2A9?style=flat-square&logo=python&logoColor=5F5E5A)
 ![OpenCV](https://img.shields.io/badge/OpenCV-B4B2A9?style=flat-square&logo=opencv&logoColor=5F5E5A)
 
--
+--
 
 **Frameworks & Platforms**
 
@@ -30,7 +30,7 @@ Passionate about **Computer Vision** and **Human-Centered AI**.
 ![Roboflow](https://img.shields.io/badge/Roboflow-B4B2A9?style=flat-square&logo=roboflow&logoColor=5F5E5A)
 ![Kaggle](https://img.shields.io/badge/Kaggle-B4B2A9?style=flat-square&logo=kaggle&logoColor=5F5E5A)
 
--
+--
 
 **Collaboration**
 
@@ -38,7 +38,7 @@ Passionate about **Computer Vision** and **Human-Centered AI**.
 ![Notion](https://img.shields.io/badge/Notion-B4B2A9?style=flat-square&logo=notion&logoColor=5F5E5A)
 ![VSCode](https://img.shields.io/badge/VSCode-B4B2A9?style=flat-square&logo=visualstudiocode&logoColor=5F5E5A)
 
--
+--
 
 #### 📌 Projects
 
