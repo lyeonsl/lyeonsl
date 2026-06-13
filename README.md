@@ -8,7 +8,7 @@
 
 ---
 
-### About Me
+## About Me
 
 AI Engineering student at **Sookmyung Women's University**
 
@@ -18,7 +18,7 @@ Passionate about **Human-Centered AI**
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 
 
