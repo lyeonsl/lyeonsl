@@ -17,17 +17,20 @@ Passionate about **Computer Vision** and **Human-Centered AI**.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-B4B2A9?style=flat-square&logo=tensorflow&logoColor=5F5E5A)
 ![PyTorch](https://img.shields.io/badge/PyTorch-B4B2A9?style=flat-square&logo=pytorch&logoColor=5F5E5A)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-B4B2A9?style=flat-square&logo=scikitlearn&logoColor=5F5E5A)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-B4B2A9?style=flat-square&logo=python&logoColor=5F5E5A)
+![OpenCV](https://img.shields.io/badge/OpenCV-B4B2A9?style=flat-square&logo=opencv&logoColor=5F5E5A)
 
----
+-
 
 **Frameworks & Platforms**
 
 ![AWS](https://img.shields.io/badge/AWS-B4B2A9?style=flat-square&logo=amazonwebservices&logoColor=5F5E5A)
-![Docker](https://img.shields.io/badge/Docker-B4B2A9?style=flat-square&logo=docker&logoColor=5F5E5A)
+![GCP](https://img.shields.io/badge/GCP-B4B2A9?style=flat-square&logo=googlecloud&logoColor=5F5E5A)
 ![Streamlit](https://img.shields.io/badge/Streamlit-B4B2A9?style=flat-square&logo=streamlit&logoColor=5F5E5A)
-![Flutter](https://img.shields.io/badge/Flutter-B4B2A9?style=flat-square&logo=flutter&logoColor=5F5E5A)
+![Roboflow](https://img.shields.io/badge/Roboflow-B4B2A9?style=flat-square&logo=roboflow&logoColor=5F5E5A)
+![Kaggle](https://img.shields.io/badge/Kaggle-B4B2A9?style=flat-square&logo=kaggle&logoColor=5F5E5A)
 
----
+-
 
 **Collaboration**
 
@@ -35,7 +38,7 @@ Passionate about **Computer Vision** and **Human-Centered AI**.
 ![Notion](https://img.shields.io/badge/Notion-B4B2A9?style=flat-square&logo=notion&logoColor=5F5E5A)
 ![VSCode](https://img.shields.io/badge/VSCode-B4B2A9?style=flat-square&logo=visualstudiocode&logoColor=5F5E5A)
 
----
+-
 
 #### 📌 Projects
 
