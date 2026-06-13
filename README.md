@@ -42,6 +42,8 @@ Passionate about **Computer Vision**, **Human-Centered AI**
 ![Streamlit](https://img.shields.io/badge/Streamlit-E8E6DF?style=flat-square&logo=streamlit&logoColor=5F5E5A)
 ![Roboflow](https://img.shields.io/badge/Roboflow-E8E6DF?style=flat-square&logo=roboflow&logoColor=5F5E5A)
 ![Kaggle](https://img.shields.io/badge/Kaggle-E8E6DF?style=flat-square&logo=kaggle&logoColor=5F5E5A)
+![figma](https://img.shields.io/badge/Figma-E8E6DF?style=flat-square&logo=figma&logoColor=5F5E5A)
+![Huggingface](https://img.shields.io/badge/Huggingface-E8E6DF?style=flat-square&logo=huggingface&logoColor=5F5E5A)
 
 **Collaboration & Communication**
 
