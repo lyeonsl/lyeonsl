@@ -1,8 +1,8 @@
-### Hi, I'm Lyeon Sl 👋
+### Hi, I'm Kim Yeonseo
 
 AI Engineering student · Sookmyung Women's University
 
-Exploring **Deep Learning**, **LLMs**, and **Cloud AI**.
+Exploring **Deep Learning**, **LLM**, and **Cloud AI**.
 Passionate about **Computer Vision** and **Human-Centered AI**.
 
 ---
@@ -10,6 +10,7 @@ Passionate about **Computer Vision** and **Human-Centered AI**.
 #### 🛠 Tech Stack
 
 **Languages & Libraries**
+
 ![Python](https://img.shields.io/badge/Python-B4B2A9?style=flat-square&logo=python&logoColor=5F5E5A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-B4B2A9?style=flat-square&logo=javascript&logoColor=5F5E5A)
 ![Java](https://img.shields.io/badge/Java-B4B2A9?style=flat-square&logo=openjdk&logoColor=5F5E5A)
@@ -20,6 +21,7 @@ Passionate about **Computer Vision** and **Human-Centered AI**.
 ---
 
 **Frameworks & Platforms**
+
 ![AWS](https://img.shields.io/badge/AWS-B4B2A9?style=flat-square&logo=amazonwebservices&logoColor=5F5E5A)
 ![Docker](https://img.shields.io/badge/Docker-B4B2A9?style=flat-square&logo=docker&logoColor=5F5E5A)
 ![Streamlit](https://img.shields.io/badge/Streamlit-B4B2A9?style=flat-square&logo=streamlit&logoColor=5F5E5A)
@@ -28,6 +30,7 @@ Passionate about **Computer Vision** and **Human-Centered AI**.
 ---
 
 **Collaboration**
+
 ![Git](https://img.shields.io/badge/Git-B4B2A9?style=flat-square&logo=git&logoColor=5F5E5A)
 ![Notion](https://img.shields.io/badge/Notion-B4B2A9?style=flat-square&logo=notion&logoColor=5F5E5A)
 ![VSCode](https://img.shields.io/badge/VSCode-B4B2A9?style=flat-square&logo=visualstudiocode&logoColor=5F5E5A)
