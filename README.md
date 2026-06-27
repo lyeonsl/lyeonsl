@@ -25,7 +25,6 @@ Passionate about **Human-Centered AI**
 **Languages & Libraries**
 
 ![Python](https://img.shields.io/badge/Python-E8E6DF?style=flat-square&logo=python&logoColor=5F5E5A)
-![Java](https://img.shields.io/badge/Java-E8E6DF?style=flat-square&logo=openjdk&logoColor=5F5E5A)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E8E6DF?style=flat-square&logo=javascript&logoColor=5F5E5A)
 ![HTML5](https://img.shields.io/badge/HTML5-E8E6DF?style=flat-square&logo=html5&logoColor=5F5E5A)
 ![CSS3](https://img.shields.io/badge/CSS3-E8E6DF?style=flat-square&logo=css3&logoColor=5F5E5A)
@@ -51,7 +50,6 @@ Passionate about **Human-Centered AI**
 
 ![Git](https://img.shields.io/badge/Git-E8E6DF?style=flat-square&logo=git&logoColor=5F5E5A)
 ![Notion](https://img.shields.io/badge/Notion-E8E6DF?style=flat-square&logo=notion&logoColor=5F5E5A)
-![Slack](https://img.shields.io/badge/Slack-E8E6DF?style=flat-square&logo=slack&logoColor=5F5E5A)
 ![Discord](https://img.shields.io/badge/Discord-E8E6DF?style=flat-square&logo=discord&logoColor=5F5E5A)
 ![VSCode](https://img.shields.io/badge/VSCode-E8E6DF?style=flat-square&logo=visualstudiocode&logoColor=5F5E5A)
 
