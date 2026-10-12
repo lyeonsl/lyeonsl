@@ -12,7 +12,7 @@
 
 AI Engineering student at **Sookmyung Women's University**
 
-Exploring **Computer Vision**, **Cloud**
+Exploring **Computer Vision**, **Natural Language Processing**
 
 Passionate about **Human-Centered AI**
 
