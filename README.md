@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Kim Yeonseo
+# Hi, I'm Yeon-seo Kim
 
 [Email](mailto:kys93437481@gmail.com) • [LinkedIn](https://linkedin.com/in//yeonseo-kim-73b656341/) • [GitHub](https://github.com/lyeonsl)
 
