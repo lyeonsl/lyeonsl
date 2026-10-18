@@ -28,7 +28,6 @@ Passionate about **Human-Centered AI**
 ![JavaScript](https://img.shields.io/badge/JavaScript-E8E6DF?style=flat-square&logo=javascript&logoColor=5F5E5A)
 ![HTML5](https://img.shields.io/badge/HTML5-E8E6DF?style=flat-square&logo=html5&logoColor=5F5E5A)
 ![CSS3](https://img.shields.io/badge/CSS3-E8E6DF?style=flat-square&logo=css3&logoColor=5F5E5A)
-![C](https://img.shields.io/badge/C-E8E6DF?style=flat-square&logo=c&logoColor=5F5E5A)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-E8E6DF?style=flat-square&logo=tensorflow&logoColor=5F5E5A)
 ![PyTorch](https://img.shields.io/badge/PyTorch-E8E6DF?style=flat-square&logo=pytorch&logoColor=5F5E5A)
